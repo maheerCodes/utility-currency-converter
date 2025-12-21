@@ -17,9 +17,7 @@ Mode.addEventListener("click", () => {
 
 
 
-// let URL = "https://api.github.com/users/";
-
-
+//country and currency loader
 
 console.log("The Supported Countries Are:");
 let dropDown = document.querySelectorAll(".currency select");
