@@ -120,6 +120,7 @@ body.dark .theme-toggle {
 }
 
 .currency select {
+  width: fit-content;
   border: none;
   outline: none;
   background: transparent;
@@ -127,7 +128,6 @@ body.dark .theme-toggle {
   cursor: pointer;
   color: var(--text);
 }
-
 .flag {
   font-size: 12px;
 }
