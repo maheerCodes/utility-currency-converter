@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Currency Converter</title>
+
+  <!-- Google Font -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <main class="app">
+    <div class="card">
+
+      <header class="header">
+        <h1>Currency Converter</h1>
+        <button class="theme-toggle">🌙</button>
+      </header>
+
+      <!-- Amount -->
+      <div class="amount-box">
+        <label>Amount</label>
+        <input type="number" min="0" placeholder="100.00" />
+      </div>
+
+      <!-- Currency Select -->
+      <div class="currency-row">
+        <div class="currency">
+          <span class="flag">🇺🇸</span>
+          <select>
+            <option>USD</option>
+            <option>EUR</option>
+            <option>BDT</option>
+          </select>
+        </div>
+
+        <button class="swap">↔</button>
+
+        <div class="currency">
+          <span class="flag">🇪🇺</span>
+          <select>
+            <option>EUR</option>
+            <option>USD</option>
+            <option>BDT</option>
+          </select>
+        </div>
+      </div>
+
+      <!-- Result -->
+      <div class="result">
+        <p>Converted Amount</p>
+        <h2>92.41 €</h2>
+        <span class="trend up">↑ 0.12%</span>
+      </div>
+
+      <!-- Footer -->
+      <footer>
+        <button class="fav">⭐ Add to favorites</button>
+      </footer>
+
+    </div>
+  </main>
+  <script src="script.js"></script>
+  <!-- <script src="/country.js"></script> -->
+</body>
+</html>

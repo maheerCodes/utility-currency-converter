@@ -1,0 +1,196 @@
+:root {
+  --bg: #f6f7fb;
+  --card: rgba(255, 255, 255, 0.75);
+  --text: #0f172a;
+  --muted: #64748b;
+  --primary: #3b82f6;
+  --accent: #14b8a6;
+  --border: #e5e7eb;
+  --shadow: 0 20px 40px rgba(0,0,0,0.08);
+}
+
+/* Dark Theme */
+body.dark {
+  --bg: #0b1220;
+  --card: rgba(17, 24, 39, 0.65);
+  --text: #f8fafc;
+  --muted: #94a3b8;
+  --primary: #60a5fa;
+  --accent: #2dd4bf;
+  --border: rgba(255, 255, 255, 0.08);
+  --shadow: 0 20px 40px rgba(0,0,0,0.5);
+}
+
+/* Reset + transition */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Inter', sans-serif;
+  transition:
+    background-color 0.3s ease,
+    color 0.3s ease,
+    border-color 0.3s ease;
+}
+
+body {
+  background: linear-gradient(135deg, var(--bg), #eef2ff);/* #eef2ff */
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--text);
+}
+
+.app {
+  width: 100%;
+  padding: 20px;
+}
+
+.card {
+  max-width: 420px;
+  margin: auto;
+  background: var(--card);
+  backdrop-filter: blur(25px);
+  border-radius: 24px;
+  padding: 24px;
+  box-shadow: var(--shadow);
+}
+
+/* Header */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 24px;
+}
+
+.header h1 {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.theme-toggle {
+  border: none;
+  background: rgba(255,255,255,0.8);
+  border-radius: 50%;
+  border: 1px solid var(--border);
+  padding: 8px;
+  cursor: pointer;
+}
+
+/* Amount */
+.amount-box label {
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.amount-box input {
+  width: 100%;
+  font-size: 36px;
+  font-weight: 600;
+  border: none;
+  outline: none;
+  background: transparent;
+  margin-top: 8px;
+  color: var(--text);
+}
+
+/* Currency Row */
+.currency-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 24px 0;
+}
+
+.currency {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: rgba(255,255,255,0.8);
+  padding: 10px 14px;
+  border-radius: 14px;
+  border: 1px solid var(--border);
+}
+
+body.dark .currency,
+body.dark .theme-toggle {
+  background: rgba(30, 41, 59, 0.8);
+}
+
+.currency select {
+  border: none;
+  outline: none;
+  background: transparent;
+  font-weight: 500;
+  cursor: pointer;
+  color: var(--text);
+}
+
+.flag {
+  font-size: 18px;
+}
+
+/* Swap Button */
+
+.swap {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  border: none;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background: linear-gradient(135deg, var(--primary), var(--accent));
+  color: white;
+  font-size: 18px;
+  line-height: 1;
+
+  cursor: pointer;
+
+  /* IMPORTANT */
+  transition: transform 0.3s ease;
+  transform-origin: center;
+}
+
+.swap:hover {
+  transform: rotate(180deg);
+}
+
+
+/* Result */
+.result {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.result p {
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.result h2 {
+  font-size: 42px;
+  margin: 6px 0;
+}
+
+.trend.up {
+  color: #16a34a;
+}
+
+/* Footer */
+footer {
+  margin-top: 24px;
+  text-align: center;
+}
+
+.fav {
+  border: none;
+  background: transparent;
+  color: var(--primary);
+  font-weight: 500;
+  cursor: pointer;
+}
