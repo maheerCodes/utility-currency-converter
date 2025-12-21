@@ -10,7 +10,7 @@ This project is a simple, intuitive currency converter built using modern web te
 - Intuitive Interface: A clean and responsive design (mobile-friendly) for easy use.
 - Swap Functionality: A dedicated button to quickly switch the "From" and "To" currencies.
 # 🚀 Technologies Used
-HTML: For the basic structure of the web application.
-CSS: For styling, layout, and visual appeal (including custom dropdown styling).
-JavaScript: For dynamic behavior, API integration, and conversion logic.
-API: Uses a third-party Exchange Rate API to fetch current rates.
+- HTML: For the basic structure of the web application.
+- CSS: For styling, layout, and visual appeal (including custom dropdown styling).
+- JavaScript: For dynamic behavior, API integration, and conversion logic.
+- API: Uses a third-party Exchange Rate API to fetch current rates.
