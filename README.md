@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/5169/5169110.png" alt="logo" width="70">
+  <img src="https://cdn-icons-png.flaticon.com/512/9576/9576078.png" alt="logo" width="70">
   <h1>Currency Converter</h1>
   <h3>A modern, glassmorphism-styled Currency Converter — powered by Vanilla JavaScript & FlagsAPI</h3>
 
@@ -8,9 +8,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="text-decoration: none;"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
   <a href="https://github.com/maheerCodes/utility-currency-converter/blob/main/LICENSE" style="text-decoration: none;"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="License: MIT"></a>
   <br>
-  <a href="https://github.com/maheerCodes/utility-currency-converter/stargazers" style="text-decoration: none;"><img src="https://img.shields.io/github/stars/maheerCodes/Currency-Converter?style=flat-square&color=gold" alt="Stars"></a>
-  <a href="https://github.com/maheerCodes/utility-currency-converter/network/members" style="text-decoration: none;"><img src="https://img.shields.io/github/forks/maheerCodes/Currency-Converter?style=flat-square&color=blue" alt="Forks"></a>
-  <a href="https://github.com/maheerCodes/utility-currency-converter/issues" style="text-decoration: none;"><img src="https://img.shields.io/github/issues/maheerCodes/Currency-Converter?style=flat-square&color=red" alt="Issues"></a>
+  <a href="https://github.com/maheerCodes/utility-currency-converter/stargazers" style="text-decoration: none;"><img src="https://img.shields.io/github/stars/maheerCodes/utility-currency-converter?style=flat-square&color=gold" alt="Stars"></a>
+  <a href="https://github.com/maheerCodes/utility-currency-converter/network/members" style="text-decoration: none;"><img src="https://img.shields.io/github/forks/maheerCodes/utility-currency-converter?style=flat-square&color=blue" alt="Forks"></a>
+  <a href="https://github.com/maheerCodes/utility-currency-converter/issues" style="text-decoration: none;"><img src="https://img.shields.io/github/issues/maheerCodes/utility-currency-converter?style=flat-square&color=red" alt="Issues"></a>
   <br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maheerCodes.Currency-Converter" alt="Visitors">
 
