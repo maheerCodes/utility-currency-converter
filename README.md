@@ -6,19 +6,19 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="text-decoration: none;"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="text-decoration: none;"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="text-decoration: none;"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
-  <a href="https://github.com/maheerCodes/Currency-Converter/blob/main/LICENSE" style="text-decoration: none;"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="License: MIT"></a>
+  <a href="https://github.com/maheerCodes/utility-currency-converter/blob/main/LICENSE" style="text-decoration: none;"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="License: MIT"></a>
   <br>
-  <a href="https://github.com/maheerCodes/Currency-Converter/stargazers" style="text-decoration: none;"><img src="https://img.shields.io/github/stars/maheerCodes/Currency-Converter?style=flat-square&color=gold" alt="Stars"></a>
-  <a href="https://github.com/maheerCodes/Currency-Converter/network/members" style="text-decoration: none;"><img src="https://img.shields.io/github/forks/maheerCodes/Currency-Converter?style=flat-square&color=blue" alt="Forks"></a>
-  <a href="https://github.com/maheerCodes/Currency-Converter/issues" style="text-decoration: none;"><img src="https://img.shields.io/github/issues/maheerCodes/Currency-Converter?style=flat-square&color=red" alt="Issues"></a>
+  <a href="https://github.com/maheerCodes/utility-currency-converter/stargazers" style="text-decoration: none;"><img src="https://img.shields.io/github/stars/maheerCodes/Currency-Converter?style=flat-square&color=gold" alt="Stars"></a>
+  <a href="https://github.com/maheerCodes/utility-currency-converter/network/members" style="text-decoration: none;"><img src="https://img.shields.io/github/forks/maheerCodes/Currency-Converter?style=flat-square&color=blue" alt="Forks"></a>
+  <a href="https://github.com/maheerCodes/utility-currency-converter/issues" style="text-decoration: none;"><img src="https://img.shields.io/github/issues/maheerCodes/Currency-Converter?style=flat-square&color=red" alt="Issues"></a>
   <br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maheerCodes.Currency-Converter" alt="Visitors">
 
   <p>No frameworks. No bulky libraries. Just clean vanilla logic, beautiful glassmorphism UI, real-time flag updates, and a seamless Dark Mode experience.</p>
 
   <b><a href="https://unique-tic-tac-toe.netlify.app/" style="text-decoration: none;">🌐 Live Demo</a></b> · 
-  <b><a href="https://github.com/maheerCodes/Currency-Converter/issues" style="text-decoration: none;">🐛 Report Bug</a></b> · 
-  <b><a href="https://github.com/maheerCodes/Currency-Converter/issues" style="text-decoration: none;">✨ Request Feature</a></b>
+  <b><a href="https://github.com/maheerCodes/utility-currency-converter/issues" style="text-decoration: none;">🐛 Report Bug</a></b> · 
+  <b><a href="https://github.com/maheerCodes/utility-currency-converter/issues" style="text-decoration: none;">✨ Request Feature</a></b>
 </div>
 
 <br>
@@ -165,7 +165,7 @@ This version is the UI starter. Real-time rate fetching is planned for the next 
 
 ## 📄 License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the **MIT License** — see the [LICENSE](https://github.com/maheerCodes/utility-currency-converter/blob/main/LICENSE) file for details.
 
 ## 👤 Author
 
@@ -177,6 +177,8 @@ This project is licensed under the **MIT License**.
 
 <div align="center">
   <br>
-  <h3>⭐ If you like this project, give it a star!</h3>
-  <p>Made with ❤️ using HTML, CSS & JS</p>
+
+  <h3>⭐ If you liked this project, consider giving it a star!</h3>
+
+  <p>Made with ❤️ using HTML, CSS & JavaScript</p>
 </div>
